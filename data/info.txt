@@ -4,3 +4,5 @@ Por tanto, sus creadores se desentienden de susodicha grotesca ideología y le i
 En cuanto a los fragmentos reales, en este caso se podría decir que la realidad supera la ficción; algunos son tan miserables que pueden afectar a su sensibilidad. No obstante, esta oscura realidad ha estado siempre ahí y es necesario sacarla a la luz y denunciarla para erradicarla.
 
 Pista: puede agregar el bot a un grupo, como si de un contacto más se tratase, y utilizar los comandos especificados en la ayuda.
+
+Enlace al código fuente: https://github.com/underbots/ReggaetonSentenceBot
