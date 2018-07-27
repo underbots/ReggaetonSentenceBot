@@ -4,8 +4,7 @@ def word_column(file_name): #Recibe un fichero y crea una lista donde cada eleme
     input_file = open(file_name)
     column = []
     for line in input_file:
-        line = line.strip()
-        column.append(line)
+        column.append(line.strip())
     input_file.close()
     return column
 
