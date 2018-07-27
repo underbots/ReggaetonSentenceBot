@@ -1,0 +1,15 @@
+Genero frases aleatorias asquerosamente machistas típicas del reggaetón.
+
+Esto es una PARODIA.
+
+Comandos:
+
+/start o /help : muestra este mensaje
+/info : información del bot
+
+/frase (+ sujeto): genera una frase aleatoria
+/estrofa (+ sujeto): genera una estrofa aleatoria
+
+/real : fragmento real de alguna canción (no necesariamente de reggaetón)
+
+/cunado (+ sujeto): frase de cuñado aleatoria
